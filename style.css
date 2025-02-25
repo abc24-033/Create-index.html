@@ -1,13 +1,13 @@
 selector {
 
-property: value;
+property:background colour value; blue, 20px, #2196F3 
 
 }
 body {
 
 font-family: Arial, sans-serif;
 
-color: #333;
+color: #2196F3;
 
 background-color: #2196F3;
 
